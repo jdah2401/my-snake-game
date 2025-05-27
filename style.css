@@ -1,1 +1,7 @@
+body {background-color: skyblue;}
 
+#canvas {
+  display:block;
+  margin: 35px auto;
+  border: 14px solid black;
+}
